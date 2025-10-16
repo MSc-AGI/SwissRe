@@ -18,6 +18,7 @@ A ready-to-use playbook designed for <br>
 **Sources:** Public information only  
 **Files:** `Deck1_of_2.pdf`, `Deck2_of_2.pdf`
 
+[Open the PDF](Deck1_of_2.pdf) •
 [Open Deck 1 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck1_of_2.pdf) •
 [Open Deck 1 on GitFront](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/blob/Decks/Deck1_of_2.pdf) •
 
