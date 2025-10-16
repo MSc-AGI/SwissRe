@@ -22,8 +22,10 @@ A ready-to-use playbook designed for <br>
 [Open Deck 2](https://www.google.com/search?q=Deck2_of_2.pdf) •
 [View on GitHub](https://www.google.com/search?q=https://github.com/MSc-AGI/Swiss_Re_AI_Strategy)
 
-\<img src="[https://raw.githubusercontent.com/MSc-AGI/Swiss\_Re\_AI\_Strategy/main/img/title.png](https://www.google.com/search?q=https://raw.githubusercontent.com/MSc-AGI/Swiss_Re_AI_Strategy/main/img/title.png)" alt="Swiss Re AI Transformation Title Slide" width="700"\>
+\<img src="https://github.com/MSc-AGI/SwissRe/blob/0aade8fed171f687211c31cf1948a9afead793c3/pictures/D1.jpg" alt="Swiss Re AI Transformation Title Slide" width="700"\>
 
+<img src="https://github.com/MSc-AGI/SwissRe/blob/0aade8fed171f687211c31cf1948a9afead793c3/pictures/D1.jpg" alt="D1" width="700">
+<img src="https://github.com/MSc-AGI/SwissRe/blob/0aade8fed171f687211c31cf1948a9afead793c3/pictures/D1.jpg" alt="J&J Engineering & Property Services, Digital Transformation Strategy" width="700">
 -----
 
 ## Purpose
