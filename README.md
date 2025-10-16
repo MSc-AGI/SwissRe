@@ -33,7 +33,7 @@ A ready-to-use playbook designed for <br>
         <a href="https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck1_of_2.pdf">Download PDF</a>
       </td>
       <td align="center">
-        <img src="pictures/D2.jpg" alt="Swiss Re Deck 2 Title Slide" width="400">
+        <img src="pictures/Deck2_1_of_2.jpg" alt="Swiss Re Deck 2 Title Slide" width="400">
         <br>
         <a href="https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck2_of_2.pdf">Open Deck 2 on GitHub</a> •
         <a href="https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck2_of_2.pdf">Download PDF</a>
