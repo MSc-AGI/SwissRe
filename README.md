@@ -14,7 +14,7 @@ A ready-to-use playbook designed for <br>
 
 **Author:** Marcelo Caballero, MSc AI, MBA  
 **Target Roles:** AI Product Delivery Lead • AI Product Strategist / Product Owner  
-**Length:** Deck 1 — 11 slides • Deck 2 — 12 slides  
+**Length:** Deck 1: 11 slides • Deck 2: 12 slides  
 **Sources:** Public information only  
 
 <table>
@@ -29,14 +29,25 @@ A ready-to-use playbook designed for <br>
     <tr>
       <td align="center">
         <img src="pictures/D1.jpg" alt="Swiss Re Deck 1 Title Slide" width="400">
+        <br>
+        <a href="https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck1_of_2.pdf">Open Deck 1 on GitHub</a> •
+        <a href="https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck1_of_2.pdf">Download PDF</a>
       </td>
       <td align="center"> │ </td>
       <td align="center">
         <img src="pictures/D2.jpg" alt="Swiss Re Deck 2 Title Slide" width="400">
+        <br>
+        <a href="https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck2_of_2.pdf">Open Deck 2 on GitHub</a> •
+        <a href="https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck2_of_2.pdf">Download PDF</a>
       </td>
     </tr>
   </tbody>
 </table>
+
+
+
+[Open Deck 2 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck2_of_2.pdf) •
+[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck2_of_2.pdf)
 
 -----
 
@@ -62,7 +73,7 @@ This is proof of how I operate: I deliver value from the outset. This work sampl
 
 ## Who this is for
 
-  - **Swiss Re Hiring Managers and Stakeholders** in P\&C Re (Dr. Schelldorfer) and the GenAI CoE (Dr. Vagnoli).
+  - **Swiss Re Hiring Managers and Stakeholders** in P&C: GenAI CoE Lead (Dr. Vagnoli) and Team Lead (Dr. Schelldorfer).
   - **Product, data, ML, and platform leaders** tasked with delivering AI in a regulated enterprise.
   - **Executives** who need an AI strategy anchored to clear business outcomes.
 
@@ -83,7 +94,7 @@ This is proof of how I operate: I deliver value from the outset. This work sampl
 
 ## What is inside
 
-### Deck 1 — Market Context, Strategic Imperatives & Role Synergy
+### Deck 1: Market Context, Strategic Imperatives & Role Synergy
 
 This deck establishes the strategic landscape, identifies the core challenge, and aligns the solution with key stakeholders.
 
@@ -92,7 +103,7 @@ This deck establishes the strategic landscape, identifies the core challenge, an
   - **The Execution Gap:** Makes the clear diagnosis that Swiss Re faces an execution problem, not an ideas problem, justifying the creation of the two senior roles.
   - **Stakeholder Alignment:** Defines the need for a leader who can speak the language of the GenAI CoE (governance, agentic workflows) and the P\&C business (loss ratios, submission triage) simultaneously.
 
-### Deck 2 — Deep Dive, Architecture & Strategic Roadmap
+### Deck 2: Deep Dive, Architecture & Strategic Roadmap
 
 This deck provides the blueprint for action, detailing the target operating model, architecture, and a phase-based plan.
 
