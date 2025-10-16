@@ -16,25 +16,33 @@ A ready-to-use playbook designed for <br>
 **Target Roles:** AI Product Delivery Lead • AI Product Strategist / Product Owner  
 **Length:** Deck 1 — 11 slides • Deck 2 — 12 slides  
 **Sources:** Public information only  
-**Files:** `Deck1_of_2.pdf`, `Deck2_of_2.pdf`
 
-<!--
-[Open Deck 1 on GitFront](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/blob/Decks/Deck1_of_2.pdf) •
--->
+<table>
+  <thead>
+    <tr>
+      <th align="center">Deck 1: Strategic Context</th>
+      <th></th>
+      <th align="center">Deck 2: AI Deep Dive</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="pictures/D1.jpg" alt="Swiss Re Deck 1 Title Slide" width="400">
+      </td>
+      <td align="center"> │ </td>
+      <td align="center">
+        <img src="pictures/D2.jpg" alt="Swiss Re Deck 2 Title Slide" width="400">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-[Open Deck 1 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck1_of_2.pdf) •
-[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck1_of_2.pdf)
-
-[Open Deck 2 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck2_of_2.pdf) •
-[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck2_of_2.pdf)
-
-<img src="pictures/D1.jpg" alt="Deck 1" width="700">
-<img src="pictures/D2.jpg" alt="Deck 2" width="700">
 -----
 
 ## Purpose
 
-To **deliver value before day one**. This is not a theoretical exercise; it is a ready-to-use strategic playbook tailored to Swiss Re's specific market position and internal needs. It frames the business context, diagnoses the core **execution gap** in the P\&C AI portfolio, and provides a pragmatic delivery roadmap. The decks are designed to provide immediate clarity for executives, hiring managers, and delivery teams on how to turn AI ambition into shipped products with measurable P\&L impact.
+To **deliver value before day one**. This is not a theoretical exercise. It is a ready-to-use strategic playbook tailored to Swiss Re's specific market position and internal needs. It frames the business context, diagnoses the core **execution gap** in the P\&C AI portfolio, and provides a pragmatic delivery roadmap. The decks are designed to provide immediate clarity for executives, hiring managers, and delivery teams on how to turn AI ambition into shipped products with measurable P\&L impact.
 
 -----
 
@@ -100,6 +108,19 @@ This deck provides the blueprint for action, detailing the target operating mode
   - `Deck1_of_2.pdf` – The Strategic Context, Market Analysis, and Role Diagnosis
   - `Deck2_of_2.pdf` – The AI Deep Dive, Target Architecture, and Transformation Roadmap
   - `README.md` – This guide
+
+**Files:** `Deck1_of_2.pdf`, `Deck2_of_2.pdf`
+
+<!--
+[Open Deck 1 on GitFront](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/blob/Decks/Deck1_of_2.pdf) •
+-->
+
+[Open Deck 1 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck1_of_2.pdf) •
+[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck1_of_2.pdf)
+
+[Open Deck 2 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck2_of_2.pdf) •
+[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck2_of_2.pdf)
+
 
 -----
 
