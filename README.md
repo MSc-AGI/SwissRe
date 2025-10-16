@@ -21,7 +21,6 @@ A ready-to-use playbook designed for <br>
   <thead>
     <tr>
       <th align="center">Deck 1: Strategic Context</th>
-      <th></th>
       <th align="center">Deck 2: AI Deep Dive</th>
     </tr>
   </thead>
@@ -33,7 +32,6 @@ A ready-to-use playbook designed for <br>
         <a href="https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck1_of_2.pdf">Open Deck 1 on GitHub</a> •
         <a href="https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck1_of_2.pdf">Download PDF</a>
       </td>
-      <td align="center"> │ </td>
       <td align="center">
         <img src="pictures/D2.jpg" alt="Swiss Re Deck 2 Title Slide" width="400">
         <br>
@@ -43,11 +41,6 @@ A ready-to-use playbook designed for <br>
     </tr>
   </tbody>
 </table>
-
-
-
-[Open Deck 2 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck2_of_2.pdf) •
-[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck2_of_2.pdf)
 
 -----
 
@@ -121,17 +114,6 @@ This deck provides the blueprint for action, detailing the target operating mode
   - `README.md` – This guide
 
 **Files:** `Deck1_of_2.pdf`, `Deck2_of_2.pdf`
-
-<!--
-[Open Deck 1 on GitFront](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/blob/Decks/Deck1_of_2.pdf) •
--->
-
-[Open Deck 1 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck1_of_2.pdf) •
-[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck1_of_2.pdf)
-
-[Open Deck 2 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck2_of_2.pdf) •
-[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck2_of_2.pdf)
-
 
 -----
 
