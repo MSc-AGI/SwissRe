@@ -18,8 +18,8 @@ A ready-to-use playbook designed for <br>
 **Sources:** Public information only  
 **Files:** `Deck1_of_2.pdf`, `Deck2_of_2.pdf`
 
-[Open Deck 1](https://www.google.com/search?q=Deck1_of_2.pdf) •
-[Open Deck 2](https://www.google.com/search?q=Deck2_of_2.pdf) •
+[Open Deck 1](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck1_of_2.pdf) •
+[Open Deck 2](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck2_of_2.pdf) •
 [View on GitHub](https://www.google.com/search?q=https://github.com/MSc-AGI/Swiss_Re_AI_Strategy)
 
 <img src="https://github.com/MSc-AGI/SwissRe/blob/0aade8fed171f687211c31cf1948a9afead793c3/pictures/D1.jpg" alt="D1" width="700">
