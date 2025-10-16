@@ -18,13 +18,15 @@ A ready-to-use playbook designed for <br>
 **Sources:** Public information only  
 **Files:** `Deck1_of_2.pdf`, `Deck2_of_2.pdf`
 
-[Open Deck 1 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck1_of_2.pdf) •
+<!--
 [Open Deck 1 on GitFront](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/blob/Decks/Deck1_of_2.pdf) •
-[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck1_of_2.pdf) •
+-->
+
+[Open Deck 1 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck1_of_2.pdf) •
+[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck1_of_2.pdf)
 
 [Open Deck 2 on GitHub](https://github.com/MSc-AGI/SwissRe/blob/main/Decks/Deck2_of_2.pdf) •
-[Open Deck 2 on GitFront](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/blob/Decks/Deck2_of_2.pdf)
-
+[Download PDF](https://gitfront.io/r/MScAI/Rj96cdzazX55/SwissRe/raw/Decks/Deck2_of_2.pdf)
 
 <img src="https://github.com/MSc-AGI/SwissRe/blob/0aade8fed171f687211c31cf1948a9afead793c3/pictures/D1.jpg" alt="D1" width="700">
 <img src="https://github.com/MSc-AGI/SwissRe/blob/c968bdcdd18b865b6837160bc597fd3f51eb54c3/pictures/D2.jpg" alt="D2" width="700">
